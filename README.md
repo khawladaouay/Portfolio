@@ -1,1 +1,1 @@
-site
+site url: khawla.tech

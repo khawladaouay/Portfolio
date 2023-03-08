@@ -494,23 +494,19 @@ section .container {
   font-weight: 600;
   font-family: "Poppins", sans-serif;
   color: #fff;
+  font-size: 180%;
 }
 
 .skills .progress .skill .val {
   float: right;
-  font-style: normal;
+  font-style: italic;
 }
 
 .skills .progress-bar-wrap {
   background: rgba(255, 255, 255, 0.2);
 }
 
-.skills .progress-bar {
-  width: 1px;
-  height: 10px;
-  transition: 0.9s;
-  background-color: #18d26e;
-}
+
 
 /*--------------------------------------------------------------
 # Interests

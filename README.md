@@ -1,1 +1,1 @@
-# site url: khawla.tech
+# site url: https://khawladaouay.github.io/Portfolio/
